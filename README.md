@@ -1,4 +1,4 @@
 ## Interview-Prep
-![Image](prework.gif)
+![Image](prework.png)
 
 # Codepath
